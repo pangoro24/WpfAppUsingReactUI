@@ -1,6 +1,6 @@
 ### Wpf app using ReactiveUI MVVM library
 
-![alt text](https://github.com/pangoro24/WpfAppUsingReactUI/images/img1.jpg "Test demo image")
+![Image](https://github.com/pangoro24/WpfAppUsingReactUI/images/img1.jpg "Test demo image")
 
 Fetching data from a local Sqlite database.
 
